@@ -14,7 +14,7 @@ public class SwaggerConfig {
         return new OpenAPI()
                 .info(new Info()
                         .title("ZeedeByte's API")
-                        .version("1.0")
+                        .version("2.0")
                         .description("Documentación de la API de residuos para ZeedeByte"));
     }
 }
